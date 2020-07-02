@@ -4,6 +4,10 @@
  * @param {number} n index
  * @returns {number}
  */
-export default function sum(m, n) {
 
+
+console.log(123);
+
+export default function sum(m, n) {
+  return m + n;
 }
